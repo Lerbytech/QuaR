@@ -1,0 +1,8 @@
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.exe
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.pdb
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.Form1.resources
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.Properties.Resources.resources
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.GenerateResource.Cache
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.exe
+C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.pdb
