@@ -6,3 +6,11 @@ C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsT
 C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.GenerateResource.Cache
 C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.exe
 C:\Users\Админ\Documents\Visual Studio 2012\Projects\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.pdb
+C:\Users\Михаил\Documents\GitHub\QuaR\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.exe
+C:\Users\Михаил\Documents\GitHub\QuaR\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.pdb
+C:\Users\Михаил\Documents\GitHub\QuaR\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.exe
+C:\Users\Михаил\Documents\GitHub\QuaR\GraphicsTest\GraphicsTest\bin\Debug\GraphicsTest.pdb
+C:\Users\Михаил\Documents\GitHub\QuaR\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Documents\GitHub\QuaR\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.Form1.resources
+C:\Users\Михаил\Documents\GitHub\QuaR\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.Properties.Resources.resources
+C:\Users\Михаил\Documents\GitHub\QuaR\GraphicsTest\GraphicsTest\obj\Debug\GraphicsTest.csproj.GenerateResource.Cache

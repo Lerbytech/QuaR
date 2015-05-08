@@ -50,7 +50,7 @@ namespace GraphicsTest
 
         private void pictureBox1_Paint(object sender, PaintEventArgs e)
         {
-            this.DoubleBuffered = true;
+            //this.DoubleBuffered = true;
 
             
             SolidBrush opaqueBrush = new SolidBrush(Color.FromArgb(32, 0, 0, 255));
